@@ -1,0 +1,7 @@
+Expense:  56.00
+Expense:  85.00
+Expense:  12.00
+Total:  51.00
+Min:  12.00
+Max:  85.00
+Avarage:  51.00
